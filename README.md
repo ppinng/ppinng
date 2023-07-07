@@ -1,4 +1,4 @@
-## 📊 My GitHub status
+### My GitHub status
 
 ![99's Github Stats](https://github-readme-stats.vercel.app/api?username=ppinng&bg_color=EAEDEB) 
 
