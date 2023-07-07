@@ -1,8 +1,8 @@
+## 📊 My GitHub status
 
-<b>My GitHub Stats</b>
+![99's Github Stats](https://github-readme-stats.vercel.app/api?username=ppinng&bg_color=EAEDEB) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppinng)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ppinng&bg_color=EAEDEB)](https://git.io/streak-stats) 
 
-<a href="http://www.github.com/ppinng"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ppinng&stroke=ffffff&background=#F69A5F&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppinng&layout=compact&bg_color=EAEDEB)](https://github.com/anuraghazra/github-readme-stats)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
